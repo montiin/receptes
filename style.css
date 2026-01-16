@@ -1,0 +1,23 @@
+body 
+{
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+  background-color: white;
+  color: black;
+}
+.tumss 
+{
+  background-color: #8c2d2d;
+  color: white;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+}
+.joks 
+{
+  margin-top: 20px;
+  font-style: italic;
+}
