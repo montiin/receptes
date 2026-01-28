@@ -1,23 +1,54 @@
-body 
-{
-  font-family: sans-serif;
-  text-align: center;
-  padding: 30px;
-  background-color: white;
-  color: black;
-}
-.tumss 
-{
-  background-color: #8c2d2d;
-  color: white;
-}
-button {
-  padding: 10px 20px;
-  margin: 10px;
-  font-size: 16px;
-}
-.joks 
-{
-  margin-top: 20px;
-  font-style: italic;
-}
+body  
+
+{ 
+
+  font-family: sans-serif; 
+
+  text-align: center; 
+
+  padding: 30px; 
+
+  background-color: rgb(103, 29, 29); 
+
+  color: rgb(245, 119, 119); 
+
+} 
+
+.tumss  
+
+{ 
+
+  background-color: #4b2222; 
+
+  color: white; 
+
+} 
+
+button { 
+
+  padding: 10px 20px; 
+
+  margin: 10px; 
+
+  font-size: 16px; 
+
+} 
+
+.joks  
+
+{ 
+
+  margin-top: 20px; 
+
+  font-style: italic; 
+
+  font-size: 30px; 
+
+  color: rgb(239, 73, 73); 
+
+  text-indent: 40px; 
+
+  text-align: left; 
+  
+
+} 
