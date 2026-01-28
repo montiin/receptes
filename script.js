@@ -26,10 +26,7 @@ function mainitRecepti() {
     
     let recipe = recipes[Math.floor(Math.random() * 3)];
 
-// ŠI LINIJA KAS VISU DARA:
-document.getElementById("joks").innerHTML = 
-    "<h3>" + recipe.title + "</h3>" +
-    "<p>" + recipe.text + "</p>" +
-    "<a href='" + recipe.link + "'>" + recipe.link + "</a>";
+// ŠI LINIJA DARA VISU(lauj visam stradat, nejautaat):
+document.getElementById("joks").innerHTML = "<h3>" + recipe.title + "</h3>" + "<p>" + recipe.text + "</p>" + "<a href='" + recipe.link + "'>" + recipe.link + "</a>";
 
 }
