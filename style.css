@@ -52,3 +52,12 @@ button {
   
 
 } 
+
+.joks a {
+    color: rgb(239, 73, 73);
+    text-decoration: underline;
+}
+
+.joks a:hover {
+    color: rgb(245, 119, 119);
+}
